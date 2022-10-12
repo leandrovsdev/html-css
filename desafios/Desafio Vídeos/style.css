@@ -1,0 +1,14 @@
+* {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+a {
+    margin: 5px;
+    padding: 5px;
+}
+div {
+    text-align: center;
+}
