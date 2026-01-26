@@ -24,7 +24,7 @@ h1 {
     body {
         background-image: url(../imagens/cev-portrait.jpg);
         background-position: center bottom;
-        background-size: contain;
+        
     }
 }
         
@@ -33,6 +33,5 @@ h1 {
     body {
         background-image: url(../imagens/cev-landscape.jpg);
         background-position: left bottom;
-        background-size: contain;
     }
 }
