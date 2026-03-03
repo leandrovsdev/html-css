@@ -24,8 +24,8 @@ header {
     align-items: center;
 }
 header > h1 {
-    margin: 10px;
     flex: 0 0 200px;
+    text-shadow: 2px 2px 0px black;
 }
 header > nav {
     display: flex;
@@ -53,4 +53,8 @@ header > nav > ul > li > a:hover {
 }
 main {
     background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
 }
