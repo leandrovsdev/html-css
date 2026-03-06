@@ -32,12 +32,7 @@ header > nav {
     flex-flow: row wrap;
     justify-content: flex-end;
 }
-header > nav > ul {
-    display: flex;
-    list-style: none;
-    gap: 10px;
-}
-header > nav > ul > li > a {
+header > nav > a {
     background-color: black;
     color: white;
     padding: 10px;
@@ -46,7 +41,7 @@ header > nav > ul > li > a {
     text-decoration: none;
     text-align: center;
 }
-header > nav > ul > li > a:hover {
+header > nav > a:hover {
     background-color: white;
     color: black;
     transition: background-color 0.5s, color 0.5s;
